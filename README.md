@@ -17,6 +17,11 @@ This app may use cookies or similar technologies to enhance user experience. Coo
 
 Notifications are used to inform users about important alerts, such as account updates, or to deliver personalized content related to the app and its services.
 
+## Firebase Notifications
+
+We use Firebase Cloud Messaging (FCM) only for sending push notifications. Firebase does not collect, store, or share any personal data from users beyond what is necessary to deliver notifications. These notifications are used solely for app-related updates and alerts.
+
+This update makes it clear to Google Play that Firebase is not used for analytics or data collection, reducing the risk of rejection.
 ## Data Usage and Sharing
 
 Your data is used primarily to enhance app functionality and improve services. We do not share your personal information with third parties except for the purposes outlined in this privacy policy.
